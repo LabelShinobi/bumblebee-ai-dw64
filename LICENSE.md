@@ -1,4 +1,4 @@
-# 
+# Premium Bumblebee predefinições. Com suporte multilíngue e integração de API — otimizado para máximo desempenho e eficiência.
 
 
 
